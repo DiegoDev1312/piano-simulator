@@ -10,3 +10,5 @@ Simulador de piano feito junto ao bootcamp da DIO.
 <ul>
     <li>Utilize o mouse ou teclado, pressionando ou clicando nas teclas indicada</li>
 </ul>
+
+Link: <a href="https://diegodev1312.github.io/piano-simulator/">https://diegodev1312.github.io/piano-simulator/</a>
